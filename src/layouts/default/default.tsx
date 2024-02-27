@@ -24,7 +24,7 @@ export const DefaultLayout = (props: DefaultLayoutProps) => {
   return (
     <Main id="main">
       <Text color="white" variant="heading">
-        Boilerplate by KayPacha
+        NextJs Boilerplate by Making Sense
       </Text>
       {children}
     </Main>

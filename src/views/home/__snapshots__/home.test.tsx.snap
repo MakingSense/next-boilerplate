@@ -40,7 +40,7 @@ exports[`Text renders a text inside Home 1`] = `
     <p
       class="c1"
     >
-      Boilerplate by KayPacha
+      NextJs Boilerplate by Making Sense
     </p>
     <p
       class="c2"

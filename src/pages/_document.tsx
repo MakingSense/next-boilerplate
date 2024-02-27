@@ -40,13 +40,7 @@ class MyDocument extends Document {
   render() {
     return (
       <Html lang="en">
-        <Head>
-          <meta name="description" content="Kay Pacha next boilerplate." />
-          <link
-            rel="icon"
-            href="https://res.cloudinary.com/kaypacha/image/upload/v1581653839/web-resources/favicon_su4xsj.png"
-          />
-        </Head>
+        <Head></Head>
         <body>
           <Main />
           <NextScript />

@@ -15,7 +15,7 @@ describe('Text', () => {
   it('renders a text inside Home', () => {
     const wrapper = setup()
 
-    const content = screen.getByText(/Boilerplate by KayPacha/i)
+    const content = screen.getByText(/NextJs Boilerplate by Making Sense/i)
 
     expect(content).toBeInTheDocument()
 
