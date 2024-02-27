@@ -1,6 +1,5 @@
 # :notebook: NextJs Typescript SWC Boilerplate
 
-### by Kay Pacha
 
 Nextjs - Typescript - Styled-Components - SWC - Jest | testing-library - Storybook - Github Actions - Eslint - Prettier
 
@@ -52,4 +51,3 @@ npm run storybook
 npm run test
 ```
 
-[MIT](https://github.com/kaypacha/next-typescript-template/blob/master/LICENSE)
